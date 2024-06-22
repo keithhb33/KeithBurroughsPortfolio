@@ -114,10 +114,10 @@ const CONFIG = {
   ],*/
   educations: [
     {
-      institution: 'Georgia Institute of Technology',
-      degree: 'Degree',
+      institution: '',
+      degree: '',
       from: '',
-      to: '2026',
+      to: '',
     }
   ],
   /*
