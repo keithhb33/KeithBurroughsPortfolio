@@ -28,7 +28,7 @@ const CONFIG = {
         //projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       //},
     },
-    external: {
+    /*external: {
       header: '',
       // To hide the `External Projects` section, keep it empty.
       projects: [
@@ -49,7 +49,7 @@ const CONFIG = {
           link: '',
         },
       ],
-    },
+    },*/
   },
   seo: {
     title: '',
@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://docs.google.com/document/d/1EzzghsDtc4e64clvURU9di_plf99AHXMbSsLLIvsWdk/export?format=pdf'
+      'https://docs.google.com/document/d/1EzzghsDtc4e64clvURU9di_plf99AHXMbSsLLIvsWdk/export?format=pdf.pdf'
   },
   skills: [
     'Python',
