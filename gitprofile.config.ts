@@ -57,48 +57,38 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'Keith Burroughs',
     researchGate: '',
     facebook: '',
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    medium: '',
+    dev: '',
+    stackoverflow: '',
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'kburroughs7@gatech.edu',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://docs.google.com/document/d/1EzzghsDtc4e64clvURU9di_plf99AHXMbSsLLIvsWdk/export?format=pdf'
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
+    'Python',
+    'Java',
+    'C++',
+    'Javascript',
+    'HTML',
     'CSS',
-    'Antd',
-    'Tailwind',
   ],
-  experiences: [
+  
+  /*experiences: [
     {
       company: 'Company Name',
       position: 'Position',
@@ -121,21 +111,16 @@ const CONFIG = {
       year: 'March 2022',
       link: 'https://example.com',
     },
-  ],
+  ],*/
   educations: [
     {
-      institution: 'Institution Name',
+      institution: 'Georgia Institute of Technology',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+      from: '',
+      to: '2026',
+    }
   ],
+  /*
   publications: [
     {
       title: 'Publication Title',
@@ -169,7 +154,7 @@ const CONFIG = {
   hotjar: {
     id: '',
     snippetVersion: 6,
-  },
+  },*/
   themeConfig: {
     defaultTheme: 'lofi',
 
@@ -232,13 +217,6 @@ const CONFIG = {
       '--rounded-btn': '3rem',
     },
   },
-
-  // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
 
   enablePWA: true,
 };
