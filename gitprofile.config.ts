@@ -23,41 +23,41 @@ const CONFIG = {
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
-      manual: {
+      //manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
-      },
+        //projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+      //},
     },
     external: {
-      header: 'My Projects',
+      header: '',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: '',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: '',
         },
         {
-          title: 'Project Name',
+          title: '',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: '',
         },
       ],
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: '',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'Keith Burroughs',
+    linkedin: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -73,7 +73,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'kburroughs7@gatech.edu',
+    email: '',
   },
   resume: {
     fileUrl:
