@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://docs.google.com/document/d/1EzzghsDtc4e64clvURU9di_plf99AHXMbSsLLIvsWdk/export?format=pdf.pdf'
+      'https://docs.google.com/document/d/1EzzghsDtc4e64clvURU9di_plf99AHXMbSsLLIvsWdk/export?format=pdf'
   },
   skills: [
     'Python',
