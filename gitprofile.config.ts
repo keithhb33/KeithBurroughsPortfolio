@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['keithhb33/AI-Movie-Shorts', 'keithhb33/PyBetterFileIO', 'keithhb33/Content-Aware-Aspect-Ratio', 'keithhb33/AI_Image', 'keithhb33/Bouncing-Ball-Grows', 'keithhb33/ZRX-Compiler'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['keithhb33/AI-Movie-Shorts', 'keithhb33/PyBetterFileIO', 'keithhb33/Content-Aware-Aspect-Ratio', 'keithhb33/AI_Image', 'keithhb33/ZRX_Compiler', 'keithhb33/Minesweeper-js'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     /*external: {
